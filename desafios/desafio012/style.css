@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
-/*Controlar a propriedade padding com as especificações permiti voc~e manipular tudo do site*/
+/*Controlar a propriedade padding com as especificações permiti você manipular tudo do site
+
+ex: padding-left ele mexe mo padding somente da parte do lado
+*/
 
 /*A medida mais util quando o assunto é responsividade é a vh viewport height pois ela se adapta ao tamanho da tela*/
 
@@ -38,7 +41,7 @@ header {
 header > h1 {
     padding-top: 50px
     ;
-    font-size: 5vh;
+    font-size: 10vh;
 }
 
 header > p {
@@ -54,6 +57,10 @@ section {
    padding-left: 30px;
 }
 
+section > p {
+   padding-bottom:2em ;
+}
+
 .normal {
    background-color: white;
    color: black;
@@ -63,6 +70,8 @@ section {
 .imagen {
    background-color: darkgrey;
    color: white;
+   box-shadow: inset 6px 6px 13px 0px black;
+   background-size: cover;
 }
 
 .imagen > p {
@@ -70,16 +79,17 @@ section {
  display: inline-block;
  padding: 5px;
    background-color: rgba(0, 0, 0, 0.151);
+   text-shadow: 1px 1px 0px black;
 }
 
 #primeira {
-background: url(pacote-d012/imagens/background001.jpg) center center no-repeat;
+background: url(pacote-d012/imagens/background001.jpg) right center no-repeat;
 background-size: cover;
 background-attachment:fixed ;
 }
 
 #segunda {
-background: black url(pacote-d012/imagens/background002.jpg) center center no-repeat;
+background: black url(pacote-d012/imagens/background002.jpg) right center no-repeat;
 background-size: cover;
 background-attachment:fixed ;
 }
