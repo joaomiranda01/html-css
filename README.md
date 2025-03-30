@@ -31,8 +31,8 @@ O objetivo deste repositório é servir como um registro do meu processo de apre
 
 ##  Links dos Projetos
 
-* [Nome do Projeto 1](https://joaomiranda01.github.io/projeto-androide/)
-* [Nome do Projeto 2](https://joaomiranda01.github.io/projeto-cordel/)
+* [Projeto Androide](https://joaomiranda01.github.io/projeto-androide/)
+* [Projeto Cordel](https://joaomiranda01.github.io/projeto-cordel/)
 * ...
 
 ---
