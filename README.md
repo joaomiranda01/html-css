@@ -32,7 +32,7 @@ O objetivo deste repositório é servir como um registro do meu processo de apre
 ##  Links dos Projetos
 
 * [Projeto Androide](https://joaomiranda01.github.io/projeto-androide/)
-* [Projeto Cordel](https://joaomiranda01.github.io/projeto-cordel/)
+* [Projeto parallax](https://joaomiranda01.github.io/projeto-parallax/)
 * ...
 
 ---
